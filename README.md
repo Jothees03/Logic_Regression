@@ -30,9 +30,3 @@ This project demonstrates how to build a Logistic Regression model using Python 
 
 ---
 
-## 📝 How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/logic-regression.git
-   cd logic-regression
